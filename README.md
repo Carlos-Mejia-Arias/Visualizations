@@ -1,4 +1,11 @@
 <a href="#en">Inglés</a>
+<br>
+<h1>Repositorio Visualizations</h1>
+<br>
+<p>Un Repositorio a subir ejercicios y ejemplos de como realizar visualizaciones con Python y R. En cada carpeta publicada hay un readme, que dará un indicio de que se esta realizando, pero también hay una carpeta donde estarán los dataset que se vayan usando en cada archivo. </p>
+
+<br>
+
 <h3>📫 Como contactarme:</h3>
 <dl>
   <dt>Mi correo:</dt>
@@ -8,6 +15,15 @@
   <dt>LinkedIn</dt>
   <dd><a href="https://www.linkedin.com/in/carlos-f-mejia/">carlos-f-mejia</a></dd>
 </dl>
-
-div><a href="#en">Inglés</a></div>
+<br>
+<br>
+<hr>
+<br>
+<br>
+<h1>Visualizations Repository</h1>
+<br>
+<p>A repository to upload exercises and examples of how to make visualizations with Python and R. In each published folder there is a readme, which will give an indication of what is being done, but there is also a folder where the dataset that will be used in each file will be. </p>
+<br>
+<br>
+<div><a href="#en">Inglés</a></div>
 <div><a href="#esp">Español</a></div>
