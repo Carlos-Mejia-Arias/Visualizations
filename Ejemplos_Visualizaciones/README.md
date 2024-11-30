@@ -11,8 +11,10 @@
 <div align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80" /> </a> 
   <br>
+</div>
 <h2>Librerías utilizadas</h2>
   <br>
+  <div align="center">
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" > <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50" title="Seaborn"/> </a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer" > <img src="https://matplotlib.org/_static/images/documentation.svg" alt="seaborn" width="50" height="50" title="Maplotlib"/> </a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer" > <img src="https://numpy.org/images/logo.svg" alt="seaborn" width="50" height="50" title="Numpy"/> </a>
